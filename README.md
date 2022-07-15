@@ -1,0 +1,1 @@
+# kafka-as-persistent-cache
